@@ -1,0 +1,22 @@
+    {% extends "base.html" %}
+    {% block title %}{{ page.title }} - {{SITENAME}}{% endblock title %}
+    {% block header %}
+    <section id="content" class="article content">
+      <header>
+        <div class="header">
+          <div class="container">
+            <h3 class="entry-title">
+              {{ page.title }}
+            </h3>
+          </div>
+        </div>
+      </header>
+    {% endblock header %}
+    {% block content %}
+<!-- .entry-content -->
+      <div class="entry-content{% if page.hebrew %} inhebrew{% endif %}">
+        {{ page.content }}
+      </div>
+<!-- /.entry-content -->
+    </section>    
+    {% endblock %}

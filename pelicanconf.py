@@ -37,7 +37,7 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 # THEME = 'notmyidea'
-THEME = '/Users/idank/dev/pelican-themes/nikhil-theme'
+THEME = 'theme'
 
 PLUGIN_PATHS = ['../pelican-plugins']
 PLUGINS = ['render_math']

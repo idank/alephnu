@@ -1,0 +1,36 @@
+    {% extends "base.html" %}
+    {% block title %}{{ article.title }} - {{SITENAME}}{% endblock title %}
+    {% block header %}
+    <section id="content" class="article content">
+      <header>
+        <div class="header">
+          <div class="container">
+            <h3 class="entry-title">
+              {{ article.title }}
+            </h3>
+          </div>
+        </div>
+        <div class="container">
+          <div class="text-muted">{{ article.locale_date }}</div>
+        </div>
+      </header>
+    {% endblock header %}
+    {% block content %}
+<!-- .entry-content -->
+      <div class="entry-content">
+        {{ article.content }}
+      </div>
+<!-- /.entry-content -->
+      <footer class="post-info text-muted">
+        {% if article.tags %}
+        {% for tag in article.tags %}
+        <button type="button" class="btn btn-default">
+          <a href="{{ SITEURL }}/{{ tag.url }}"><div class="fa fa-lg fa-tag"></div> {{ tag }}</a>
+        </button>
+        {% endfor %}
+        {% endif %}
+      </footer>
+      <!-- /.post-info -->
+      {% include 'disqus.html' %}
+    </section>
+    {% endblock %}
