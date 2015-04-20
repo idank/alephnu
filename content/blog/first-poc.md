@@ -1,5 +1,5 @@
 Title: first poc of the command server
-Date: 2011-06-04 11:37:00
+Date: 2011-06-04 10:37:00
 Tags: gsoc, mercurial
 
 Yesterday I sent out an [early version](http://article.gmane.org/gmane.comp.version-control.mercurial.devel/42131) of the command server to the mailing list ([patch queue][]), which included:
