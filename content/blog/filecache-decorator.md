@@ -1,7 +1,6 @@
 Title: the filecache decorator
 Date: 2011-06-04 11:37:00
-Category: Python
-Tags: gsoc, mercurial
+Tags: gsoc, mercurial, python
 
 The past week or so I've been working on [a new decorator](http://markmail.org/thread/uublw3vjjrmqp5nr) that tracks files under the .hg/ directory for changes.
 

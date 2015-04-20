@@ -1,7 +1,6 @@
 Title: sub-second precision is not enough
 Date: 2011-06-04 11:37:00
-Category: Python
-Tags: gsoc, mercurial
+Tags: gsoc, mercurial, python
 
 Turns out relying on st_mtime having sub-second precision is not reliable enough, as this small test demonstrates:
 

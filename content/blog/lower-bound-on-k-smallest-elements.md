@@ -3,10 +3,8 @@ Date: 2012-01-01 14:58:00
 Tags: algorithms
 Math: True
 
-<blockquote>
-Any comparison based algorithm solves the problem of finding the <i>k</i>-smallest
-elements in sorted order in $\Omega(k\lg{n})$ time for an <i>n</i>-length array.
-</blockquote>
+> Any comparison based algorithm solves the problem of finding the _k_-smallest
+> elements in sorted order in $\Omega(k\lg{n})$ time for an _n_-length array.
 
 To find a lower bound on the running time of any algorithm solving the above problem using comparisons we use the [decision tree model](http://en.wikipedia.org/wiki/Decision_tree_model).
 
