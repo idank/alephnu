@@ -1,7 +1,6 @@
 Title: the python road not taken
 Date: 2015-04-13 11:37:00
 Tags: python
-Status: draft
 
 Imagine you have a road that people have been driving on for years. This road is
 solid. Damage would be fixed quickly. Every now and then it would be upgraded
@@ -53,9 +52,9 @@ continue using the old road.
 As the sun sets on PyCon 2015 and another year has gone by without considerable
 progress towards adoption of Python 3, we are introduced to optional type hints
 in the language.  Optional was repeated numerous times in GvR keynote,
-as if he's already giving his defense against it.  I think it
+as if he's already giving his defense against the naysayers.  I think it
 misses the point a little because if just 10% of the python I'll be reading looks like
 [this](https://www.python.org/dev/peps/pep-0484/#function-overloading) then
 I won't be reading it for much longer.
 
-The end of the tunnel to Python 3 is no where in sight.
+The end of the tunnel to Python 3 is (still) no where in sight.
