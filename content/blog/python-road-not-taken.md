@@ -29,11 +29,8 @@ Meanwhile the old road was still there with many drivers using it every single
 day. Holes in the road would still be fixed, but the owners ceased to
 improve it, now that they had built the new road.
 
-Years have gone by and still drivers would choose to use the old and familiar
-road. Many attempts were made to lure drivers to use the new road, such as
-trading in the drivers old cars when they buy a new one.  Others seemed more
-crazy like adding a special lane for people who give a weeks notice before they
-use the road. Very few drivers would care about these.
+Many attempts were made to lure drivers to use the new road but years later
+still the old road remained the most popular.
 
 It is unclear what the drivers will do a few years from now. Maybe they'll all
 buy new cars and finally start using the new road? Maybe the new road will add
@@ -51,10 +48,12 @@ continue using the old road.
 
 As the sun sets on PyCon 2015 and another year has gone by without considerable
 progress towards adoption of Python 3, we are introduced to optional type hints
-in the language.  Optional was repeated numerous times in GvR keynote,
-as if he's already giving his defense against the naysayers.  I think it
-misses the point a little because if just 10% of the python I'll be reading looks like
-[this](https://www.python.org/dev/peps/pep-0484/#function-overloading) then
-I won't be reading it for much longer.
+in the language.  Optional was repeated numerous times in GvR's keynote (as if
+he's already giving his defense against the naysayers).  My concern with this
+whole thing isn't so much whether I'll use it or not, but rather that I'll
+end up reading a lot of code that does. I'm not sure I would call [this]
+'beautiful'.
 
 The end of the tunnel to Python 3 is (still) no where in sight.
+
+[this]: https://www.python.org/dev/peps/pep-0484/#function-overloading "python 3 type hints"
