@@ -7,6 +7,32 @@ Hebrew: True
 
 את המטלות כתבתי ב-LaTeX (קומפלו בעזרת XeTeX).
 
+### מעבדה בתכנות, 20465 <small>[מטלות 2015א](http://dl.dropbox.com/u/18261201/maabada-tichnoot.pdf)</small>
+
+- [11](http://dl.dropbox.com/u/18261201/20465-11.zip)
+- [21](http://dl.dropbox.com/u/18261201/20465-21.zip)
+- [14](http://dl.dropbox.com/u/18261201/20465-project.zip) - פרויקט סיום, מימוש של קומפיילר
+
+### מערכות הפעלה, 20594 <small>[מטלות 2015א](http://dl.dropbox.com/u/18261201/operating-systems.pdf)</small>
+
+- [11](http://dl.dropbox.com/u/18261201/20594-11.zip) - libut, libbinsem
+- [12](http://dl.dropbox.com/u/18261201/20594-12.zip) - mtmm
+- [13](http://dl.dropbox.com/u/18261201/20594-13.zip) - ext2
+
+### שפות תכנות, 20905 <small>[מטלות 2014ב](http://dl.dropbox.com/u/18261201/programming-languages.pdf)</small>
+
+- [12](http://dl.dropbox.com/u/18261201/20905-12.zip)
+- [13](http://dl.dropbox.com/u/18261201/20905-13.zip)
+- [14](http://dl.dropbox.com/u/18261201/20905-14.zip)
+- [16](http://dl.dropbox.com/u/18261201/20905-16.zip)
+
+### קומפילציה, 20364 <small>[מטלות 2014א](http://dl.dropbox.com/u/18261201/compilation.pdf)</small>
+
+- [11](http://dl.dropbox.com/u/18261201/20364-11.zip)
+- [12](http://dl.dropbox.com/u/18261201/20364-12.zip)
+- [14](http://dl.dropbox.com/u/18261201/20364-14.zip)
+- [16](http://dl.dropbox.com/u/18261201/20364-16.zip) - פרויקט סיום, מימוש קומפיילר ל-CPL ב-python
+
 ### אלגוריתמיקה, 20290 <small>[מטלות 2013ג](http://dl.dropbox.com/u/18261201/algorithmica.pdf)</small>
 
 - [11](http://dl.dropbox.com/u/18261201/20290-11.pdf)
